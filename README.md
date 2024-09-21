@@ -4,7 +4,13 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Julie Chen](https://github.com/Julie-Chen)
+
+[Chris Li](https://github.com/christopherlii)
+
+[Maddy Li](https://github.com/maddy-li)
+
+[Aneri Shah](https://github.com/anerivs)
 
 ## Stakeholders
 
