@@ -46,7 +46,9 @@ A mobile application designed to allow users to track their workout progress by 
 10. As a user focused on long-term goals, I want to view weekly or monthly summaries of my workouts so that I can see my overall progress.
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. As a user who enjoys variety, I want to log different types of exercises (e.g., cardio, strength training, flexibility) so that I can track all aspects of my fitness routine in one place.
+![UML1](UML1.png)
+2. As a user concerned with balance, I want to track the time spent on each type of workout (e.g., cardio vs. strength training) so that I can ensure I’m maintaining a balanced fitness regimen.
+![UML2](UML2.png)
 
 ## [Clickable Prototype](https://www.figma.com/proto/pWopI2qoTPHQ1diCO0x3rn/Wireframe?node-id=0-1&t=gMaVX4iYsUMVfIpn-1)
