@@ -16,16 +16,16 @@ A little exercise to get started with the specification phase of the software de
 
 ### Name: Jason Hu
 
-Summary:
+**Summary**:
 Inconsistent gym goer who has a busy schedule but wants to fit going to the gym into their daily routine. They don’t want to rely on their unreliable memory to keep track of their gym progress and would appreciate having a user-friendly tracking system. 
 
-Goals/Needs:
+**Goals/Needs**:
 - Being more consistent with exercising to improve his health
 - Planning out the exercises he wants to do in a week
 - Being able to see and track his progress for motivation
 - Seeing visible data of his progress to optimize workouts over time
 
-Problems:
+**Problems**:
 - Forgetting how much weight he can lift in the past
 - Not committing to a certain workout schedule 
 - Feeling unmotivated due to lack of tangible progress
@@ -33,7 +33,7 @@ Problems:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A mobile application designed to allow users to track their workout progress by logging completed exercises, scheduling workout plans, and generating health statistics based on their performance data.
 
 ## User Requirements
 
